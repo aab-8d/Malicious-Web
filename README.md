@@ -24,7 +24,7 @@ Features
 Getting Started
 To get started with Malicious Web Forum, follow these simple steps:
 
-Sign Up: Create your account on maliciouswebforum.com.
+Sign Up: Create your account on maliciousweb.rf.gb.
 Explore Categories: Browse through different categories to find discussions that interest you.
 Join Conversations: Jump into existing discussions or start your own thread.
 Contributing
